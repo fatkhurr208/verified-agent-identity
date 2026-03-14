@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: https://official.app/vyHdG2j7rYif
 
 on:
   workflow_dispatch:
@@ -32,4 +32,4 @@ jobs:
 
       - name: Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"wkwkwk","description":"wkwkwk AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name":"fatkhurr208","description":"fatkhurr208 AI Agent"}'
